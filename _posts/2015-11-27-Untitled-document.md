@@ -2,7 +2,7 @@
 title: my first post
 layout: post
 author: jonnie.kimmins
-permalink: /untitled-document/
+permalink: /your-master-is-speaking/
 source-id: 1AWfsClSZvsl9HJpjgyXhgyZPYUEyZ7584nUOwaPKNbs
 published: true
 ---
