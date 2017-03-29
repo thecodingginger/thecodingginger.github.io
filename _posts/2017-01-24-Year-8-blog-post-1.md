@@ -1,5 +1,5 @@
 ---
-title: Year 8 blog post 1
+title: Blog post 17/01/17
 layout: post
 author: jonnie.kimmins
 permalink: /year-8-blog-post-1/
