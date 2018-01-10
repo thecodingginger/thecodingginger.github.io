@@ -6,7 +6,7 @@
 name: Jonnie k
 
 # Short bio or description (displayed in the header)
-description: student at a school doing year 7 learning blog.
+description: student with no coding skill running a blog about coding for some reason
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/4943487?v=3&s=460
@@ -24,7 +24,7 @@ footer-links:
   github: barryclark/jekyll-now
   instagram:
   linkedin:
-  pinterest:
+  pinterest: jonnie_kimmins
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
